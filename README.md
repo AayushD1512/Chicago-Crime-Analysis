@@ -64,8 +64,7 @@ The project provides a comprehensive understanding of crime in Chicago, helping 
 
 ## Visualizations
 
-![Crime Trends Over Time](path/to/your/image1.png)
-*Crime Trends Over the Years in Chicago*
+![Analysis Phase 1](https://github.com/AayushD1512/Chicago-Crime-Analysis/blob/main/Analysis%20Phase%201.jpg)
 
-![Crime Hotspots Map](path/to/your/image2.png)
-*Heatmap Showing Crime Hotspots in Chicago*
+![Analysis Phase 2](https://github.com/AayushD1512/Chicago-Crime-Analysis/blob/main/Analysis%20Phase%202.jpg)
+
