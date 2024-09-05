@@ -1,4 +1,3 @@
-# Chicago-Crime-Analysis
 # Chicago Crime Analysis using Big Data Analytics
 
 ## Project Overview
