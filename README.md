@@ -8,7 +8,7 @@ Chicago faces significant challenges related to crime that affect public safety 
 
 ## Methodology
 ### Data Collection
-- **Source**: Chicago Data Portal (2001–2023)
+- **Source**: Chicago Data Portal (2001–2023). Link: https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2/about_data
 - **Attributes**: Crime type, location, time of occurrence, arrest status, etc.
 
 ### Data Preprocessing
