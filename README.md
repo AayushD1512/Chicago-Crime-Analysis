@@ -62,3 +62,10 @@ The project provides a comprehensive understanding of crime in Chicago, helping 
 - **Aayush Dubey**
 - **Aksh Gupta**
 
+## Visualizations
+
+![Crime Trends Over Time](path/to/your/image1.png)
+*Crime Trends Over the Years in Chicago*
+
+![Crime Hotspots Map](path/to/your/image2.png)
+*Heatmap Showing Crime Hotspots in Chicago*
