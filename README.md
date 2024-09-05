@@ -62,8 +62,3 @@ The project provides a comprehensive understanding of crime in Chicago, helping 
 - **Aayush Dubey**
 - **Aksh Gupta**
 
-## Acknowledgements
-We would like to thank Dr. Yogesh Gupta for his guidance and support throughout this project.
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
